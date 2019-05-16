@@ -5,4 +5,6 @@ array.each do |i|
 end
 
 return chicken 
+
+
 end
